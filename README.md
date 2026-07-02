@@ -1,86 +1,78 @@
-<h1 align="center">Hi 👋, I'm Subhapriyan S</h1>
-<h3 align="center">Computer Science and Design Student | Java Developer | AI & Cloud Enthusiast</h3>
+<h1 align="center">👋 HELLO, I'M <span style="color:#00F7FF;">SUBHAPRIYAN S</span></h1>
+
+<h3 align="center">
+💻 COMPUTER SCIENCE AND DESIGN STUDENT • ☕ JAVA DEVELOPER • 🤖 AI & CLOUD ENTHUSIAST
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Java+Developer;LeetCode+Problem+Solver;Hackathon+Participant;AI+%26+Cloud+Learner" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science and Design student at **SRM Easwari Engineering College**
-- 💻 Passionate about Java, Web Development, and Problem Solving
-- 🌱 Currently learning **Data Structures & Algorithms, AI, Cloud Computing**
-- 🚀 Regularly solving **LeetCode** problems
-- 🏆 Active participant in hackathons and coding challenges
-- 🎯 Goal: Become a Software Engineer and an IPS Officer
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode,mysql,c,cpp" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=subhapriyan-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhapriyan-ux&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=WELCOME+TO+MY+GITHUB!;I'M+SUBHAPRIYAN+S;JAVA+DEVELOPER;LEETCODE+PROBLEM+SOLVER;AI+%7C+CLOUD+ENTHUSIAST;HACKATHON+PARTICIPANT;KEEP+LEARNING+KEEP+BUILDING!" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=subhapriyan-ux&theme=tokyonight&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=subhapriyan-ux&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/subhapriyan-ux?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/subhapriyan-ux?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🚀 ABOUT ME
+
+🎓 **COMPUTER SCIENCE AND DESIGN STUDENT AT SRM EASWARI ENGINEERING COLLEGE**
+
+💻 **PASSIONATE ABOUT JAVA, WEB DEVELOPMENT, AND SOFTWARE DEVELOPMENT**
+
+🌱 **CURRENTLY LEARNING DATA STRUCTURES, ALGORITHMS, AI, AND CLOUD COMPUTING**
+
+🏆 **ACTIVE HACKATHON PARTICIPANT**
+
+🧩 **LEETCODE PROBLEM SOLVER**
+
+🎯 **GOAL: BECOME A SKILLED SOFTWARE ENGINEER AND AN IPS OFFICER**
+
+---
+
+# 💻 TECH STACK
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=subhapriyan-ux&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,git,github,vscode,mysql,linux"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📚 CURRENTLY LEARNING
+
+- ☕ JAVA
+- 🌐 WEB DEVELOPMENT
+- 📊 DATA STRUCTURES & ALGORITHMS
+- 🤖 ARTIFICIAL INTELLIGENCE
+- ☁️ GOOGLE CLOUD
+- 🔧 GIT & GITHUB
+
+---
+
+# 📊 GITHUB STATS
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhapriyan-ux&theme=tokyo-night"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=subhapriyan-ux&show_icons=true&theme=radical"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhapriyan-ux&layout=compact&theme=radical"/>
+
 </p>
-
----
-
-## 🚀 Current Focus
-
-- ✅ Java Programming
-- ✅ Data Structures & Algorithms
-- ✅ Web Development
-- ✅ Artificial Intelligence
-- ✅ Google Cloud
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/subhapriyan-ux"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=subhapriyan-ux&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 <p align="center">
-⭐ Thank you for visiting my profile! ⭐
+
+<img src="https://streak-stats.demolab.com?user=subhapriyan-ux&theme=radical"/>
+
 </p>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy
