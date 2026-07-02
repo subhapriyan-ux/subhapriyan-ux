@@ -1,237 +1,163 @@
-<div align="center">
-
-# ⚡ SUBHAPRIYAN S ⚡
-
-### 🚀 COMPUTER SCIENCE AND DESIGN STUDENT | ☕ JAVA DEVELOPER | 🤖 AI & CLOUD ENTHUSIAST
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+WELCOME+TO+MY+GITHUB!;💻+JAVA+DEVELOPER;🚀+COMPUTER+SCIENCE+STUDENT;🏆+HACKATHON+PARTICIPANT;🧩+LEETCODE+PROBLEM+SOLVER;☁️+GOOGLE+CLOUD+LEARNER;🤖+AI+ENTHUSIAST;⭐+KEEP+LEARNING+KEEP+BUILDING!" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=subhapriyan-ux&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/followers/subhapriyan-ux?style=for-the-badge&logo=github&color=blue"/>
-
-<img src="https://img.shields.io/github/stars/subhapriyan-ux?style=for-the-badge&logo=github&color=yellow"/>
-
-</div>
-
----
-
-# 👨‍💻 ABOUT ME
-
-🎓 **COMPUTER SCIENCE AND DESIGN STUDENT AT SRM EASWARI ENGINEERING COLLEGE**
-
-💻 **PASSIONATE ABOUT JAVA, WEB DEVELOPMENT, AI, AND PROBLEM SOLVING**
-
-🚀 **PARTICIPATING IN HACKATHONS TO BUILD REAL-WORLD PROJECTS**
-
-🧩 **SOLVING LEETCODE PROBLEMS TO IMPROVE DSA SKILLS**
-
-☁️ **CURRENTLY LEARNING GOOGLE CLOUD, AI, AND SOFTWARE DEVELOPMENT**
-
-🎯 **MISSION: BUILD IMPACTFUL SOFTWARE AND SERVE AS AN IPS OFFICER**
-
----
-
-# 🌈 TECH BADGES
+<h1 align="center">⚡ SUBHAPRIYAN S ⚡</h1>
 
 <p align="center">
+  <strong>🚀 COMPUTER SCIENCE AND DESIGN STUDENT | 💻 JAVA DEVELOPER | 🤖 AI & CLOUD ENTHUSIAST</strong>
+</p>
 
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhapriyan-S&label=Profile%20Views&color=violet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Subhapriyan-S?label=Followers&style=flat&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Subhapriyan-S?label=Stars&style=flat&color=yellow" alt="Stars" />
 </p>
 
 ---
 
-# 💡 DEVELOPER QUOTE
+### 🤷‍♂️ ABOUT ME
 
-> **"SUCCESS IS BUILT ONE COMMIT, ONE PROJECT, AND ONE DAY AT A TIME."**
+- 💻 COMPUTER SCIENCE AND DESIGN STUDENT AT SRI ESHWAR COLLEGE OF ENGINEERING
+- 🚀 PASSIONATE ABOUT WEB DEVELOPMENT, AI AND PROBLEM SOLVING
+- 🛠️ PARTICIPATING IN HACKATHONS TO BUILD REAL-WORLD PROJECTS
+- 🔍 SOLVING LEETCODE PROBLEMS TO IMPROVE DSA SKILLS
+- ☁️ CURRENTLY LEARNING GOOGLE CLOUD, AI, AND SOFTWARE DEVELOPMENT
+- 🎯 AIMING TO BUILD IMPACTFUL SOFTWARE AND SERVE AS AN IPS OFFICER
 
-# 🛠️ TECH STACK
+---
 
-<p align="center">
+### 🌈 TECH BADGES
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,git,github,vscode,mysql,linux,firebase"/>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 CURRENTLY LEARNING
+### 💡 DEVELOPER QUOTE
 
-<div align="center">
-
-| 🚀 TECHNOLOGY | 📈 PROGRESS |
-|--------------|------------|
-| ☕ JAVA | ██████████ 90% |
-| 📊 DATA STRUCTURES & ALGORITHMS | ███████░░░ 70% |
-| 🌐 WEB DEVELOPMENT | ████████░░ 80% |
-| 🤖 ARTIFICIAL INTELLIGENCE | ██████░░░░ 60% |
-| ☁️ GOOGLE CLOUD | ██████░░░░ 60% |
-| 🗄️ MYSQL | ████████░░ 80% |
-| 🐙 GIT & GITHUB | █████████░ 85% |
-
-</div>
+> "SUCCESS IS BUILT ONE COMMIT, ONE PROJECT, AND ONE DAY AT A TIME."
 
 ---
 
-# 📊 GITHUB STATS
+### 🛠️ TECH STACK
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=subhapriyan-ux&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhapriyan-ux&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=subhapriyan-ux&theme=tokyonight" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,css,js,git,github,vscode,mysql,firebase" />
+  </a>
 </p>
 
 ---
 
-# 🔥 GITHUB STREAK
+### 📌 CURRENTLY LEARNING
+
+| 🚀 TECHNOLOGY | 📊 PROGRESS |
+| :--- | :--- |
+| ☕ Java | ██████████ 100% |
+| 📚 Data Structures & Algorithms | ███████░░░ 75% |
+| 🌐 Web Development | ██████░░░░ 60% |
+| 🤖 Artificial Intelligence | █████░░░░░ 50% |
+| ☁️ Google Cloud | ███░░░░░░░ 30% |
+| 🗄️ MySQL | ████░░░░░░ 40% |
+| 🐙 Git & GitHub | ████████░░ 80% |
+
+---
+
+### 📊 GITHUB STATS
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=subhapriyan-ux&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhapriyan-S&show_icons=true&theme=dark&hide_border=true" alt="Subhapriyan's GitHub Stats" />
 </p>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+### 🔥 GITHUB STREAK
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=subhapriyan-ux&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhapriyan-S&theme=dark&hide_border=true" alt="Subhapriyan's GitHub Streak" />
 </p>
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+### 🏆 GITHUB TROPHIES
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhapriyan-ux&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Subhapriyan-S&theme=dark&no-bg=true" alt="Subhapriyan's GitHub Trophies" />
 </p>
 
 ---
 
-# 🎯 2026 GOALS
-
-- ✅ SOLVE **300+ LEETCODE** PROBLEMS
-- ✅ BUILD **10+ FULL-STACK PROJECTS**
-- ✅ EARN **GOOGLE CLOUD CERTIFICATIONS**
-- ✅ CONTRIBUTE TO **OPEN SOURCE**
-- ✅ WIN A **NATIONAL HACKATHON**
-- ✅ BECOME A STRONG JAVA DEVELOPER
-
----
-
-# 💻 CODING PHILOSOPHY
-
-> **"CODE. DEBUG. LEARN. REPEAT. EVERY DAY IS A CHANCE TO BECOME A BETTER DEVELOPER."**
-
-# 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-| 🚀 PROJECT | 💡 DESCRIPTION | 🔗 STATUS |
-|------------|----------------|----------|
-| 🌐 Portfolio Website | Personal portfolio showcasing my skills | 🚧 In Progress |
-| ☕ Java Projects | Java console & OOP applications | ✅ Active |
-| 🧩 LeetCode Solutions | Data Structures & Algorithms | 🚀 Growing |
-| 🤖 AI Projects | AI & Machine Learning experiments | 📚 Learning |
-| ☁️ Cloud Projects | Google Cloud hands-on projects | 🌱 Coming Soon |
-
-</div>
-
----
-
-# 🏅 ACHIEVEMENTS
-
-🏆 HACKATHON PARTICIPANT
-
-💻 LEETCODE PROBLEM SOLVER
-
-☁️ GOOGLE CLOUD LEARNER
-
-🎓 COMPUTER SCIENCE AND DESIGN STUDENT
-
-🚀 CONTINUOUS LEARNER
-
----
-
-# 🌐 CONNECT WITH ME
+### 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-
-<a href="https://github.com/subhapriyan-ux">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhapriyan-S&theme=react-dark&hide_border=true" alt="Subhapriyan's Contribution Graph" />
 </p>
 
 ---
 
-# 📈 PROFILE SUMMARY
+### 🎯 2026 GOALS
 
-```text
-💻 JAVA
-🌐 WEB DEVELOPMENT
-🤖 AI
-☁️ CLOUD
-🧩 DSA
-🚀 OPEN SOURCE
-🏆 HACKATHONS
-```
+- 🚀 BUILD 10+ DEPLOYABLE PROJECTS
+- 💻 BUILD 5+ FULL-STACK PROJECTS
+- ☁️ GAIN GOOGLE CLOUD CERTIFICATIONS
+- 🤝 CONTRIBUTE TO OPEN SOURCE
+- 🏆 WIN A NATIONAL HACKATHON
+- 🎯 BECOME A STRONG SOFTWARE DEVELOPER
 
 ---
 
-# 💭 FAVORITE QUOTE
+### 💻 CODING PHILOSOPHY
 
-> **"THE BEST WAY TO PREDICT THE FUTURE IS TO CREATE IT." — PETER DRUCKER**
+> "CODE, DEBUG, LEARN, REPEAT. EVERY DAY IS A CHANCE TO BECOME A BETTER DEVELOPER."
 
 ---
 
-# ⭐ THANK YOU FOR VISITING ⭐
+### 📂 FEATURED PROJECTS
 
-<div align="center">
+| 🚀 PROJECT | 📝 DESCRIPTION | ⚙️ STATUS |
+| :--- | :--- | :--- |
+| 🌐 Portfolio Website | Personal website showcasing my work | 🟡 In Progress |
+| ☕ Java Projects | Various core & advanced Java applications | ✅ Active |
+| 🔍 LeetCode Solutions | Data Structures & Algorithms | ⚙️ Coding |
+| 🤖 AI Projects | Python Machine learning experiments | 🛠️ Learning |
+| ☁️ Cloud Projects | Google Cloud deployment templates | ⏳ Coming Soon |
 
-## 🚀 KEEP LEARNING • KEEP BUILDING • KEEP GROWING 🚀
+---
 
-### ⭐ IF YOU LIKE MY WORK, DON'T FORGET TO FOLLOW MY GITHUB PROFILE! ⭐
+### 🏅 ACHIEVEMENTS
 
-</div>
+- 🏅 HACKATHON PARTICIPANT
+- 💻 LEETCODE PROBLEM SOLVER
+- ☁️ GOOGLE CLOUD LEARNER
+- 🎓 COMPUTER SCIENCE AND DESIGN STUDENT
+- 🚀 CONTINUOUS LEARNER
+
+---
+
+### 🌐 CONNECT WITH ME
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 💬 FAVORITE QUOTE
+
+> "THE BEST WAY TO PREDICT THE FUTURE IS TO CREATE IT." — PETER DRUCKER
+
+---
+
+### ⭐ THANK YOU FOR VISITING ⭐
+
+<p align="center">
+  <strong>🚀 KEEP LEARNING • KEEP BUILDING • KEEP GROWING 🚀</strong>
+  <br />
+  <strong>⭐ IF YOU LIKE MY WORK, DON'T FORGET TO FOLLOW MY GITHUB PROFILE ⭐</strong>
+</p>
