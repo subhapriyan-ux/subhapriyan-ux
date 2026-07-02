@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Subhapriyan S
 
-<!--
-**subhapriyan-ux/subhapriyan-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🎓 Computer Science and Design Student
+- 💻 Learning Java, HTML, CSS and Python
+- 🚀 Interested in AI, Cloud and Web Development
+- 🧩 Solving LeetCode problems
+- 🏆 Hackathon Participant
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Java
+- HTML
+- CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- GitHub: https://github.com/subhapriyan-ux
+
+⭐ Thanks for visiting my profile!
+
