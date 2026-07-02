@@ -93,11 +93,12 @@
 # 📊 GITHUB STATS
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=subhapriyan-ux&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhapriyan-ux&layout=compact&theme=tokyonight" />
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=subhapriyan-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhapriyan-ux&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=subhapriyan-ux&theme=tokyonight" />
 </p>
 
 ---
